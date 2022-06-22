@@ -57,7 +57,7 @@ body {
   }
   
 header {
-	background-color: #181717;
+	background-color: #180c47;
 	height: 10vh;
 	min-height: 50px;
 	color: white;
@@ -155,7 +155,7 @@ header {
   
   .login {
 	margin: 1rem 0 0;
-	background: #1a1520;
+	background: #ae288f;
   }
   
   label {

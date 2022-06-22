@@ -8,11 +8,11 @@
 </script>
 
 <header>
-<h1>🔫💬</h1>
+<h1>Chill Chat💬</h1>
   {#if $username}
     <div class="user-bio">
       
-      <span>Hello <strong>{$username}</strong></span>
+      <span>Hi there! <strong>{$username}</strong></span>
       <img src={`https://avatars.dicebear.com/api/initials/${$username}.svg`} alt="avatar" /> 
     </div>
 
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>Gun.js Chat</h3>
+      <h3>chilling channel</h3>
   {/if}
 </header>
