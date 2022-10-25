@@ -8,7 +8,7 @@
 </script>
 
 <header>
-<h1>Chill Chat💬</h1>
+<h1>Sun Life 💬</h1>
   {#if $username}
     <div class="user-bio">
       
@@ -20,6 +20,6 @@
 
     {:else}
 
-      <h3>chilling channel</h3>
+      <h3>Coruption compliant</h3>
   {/if}
 </header>
