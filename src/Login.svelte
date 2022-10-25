@@ -27,5 +27,5 @@
 
 <button class="login" on:click={login}>Login</button>
 <button class="login"  on:click={signup}>Sign Up</button>
-<footer><button class="login"><a href="http://chatblock.epizy.com/frontpage.html?i=1" >BACK</a> </button></footer>
+
   
